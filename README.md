@@ -28,7 +28,7 @@
         ```javascript
         const bot = new Composer
         ```
-    - [ ] Finally export the bot:
+    - [ ] Finally remove bot.launch() line instead use:
         ```javascript
         module.exports = bot
         ```
