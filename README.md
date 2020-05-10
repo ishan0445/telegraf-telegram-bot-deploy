@@ -1,4 +1,5 @@
-## Steps to host your Telegram bot on Heroku for free:
+# Steps to host your Telegram bot
+## Heroku:
 
 - [ ] Create a Telegram bot with Telegraf API.
 - [ ] Create account on [Heroku](http://heroku.com/).
