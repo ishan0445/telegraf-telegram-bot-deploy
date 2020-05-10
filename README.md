@@ -40,13 +40,13 @@
     ```
     node_modules
     ```
-- [ ] Create a Heroku app:
-    ```bash
-    heroku create
-    ```
 - [ ] Login to Heroku:
     ```bash
     heroku login
+    ```
+- [ ] Create a Heroku app:
+    ```bash
+    heroku create
     ```
 - [ ] Update Heroku config
     ```bash
