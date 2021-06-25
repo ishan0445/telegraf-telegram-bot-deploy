@@ -19,14 +19,14 @@
     }
     ...
     ```
-- [ ] Make cahnges in the code.
+- [ ] Make changes in the code.
     - [ ] Change the telegraf import to:
         ```javascript
         const { Composer } = require('micro-bot')
         ```
     - [ ] Create bot from **Composer:**
         ```javascript
-        const bot = new Composer
+        const bot = new Composer()
         ```
     - [ ] Finally remove bot.launch() line instead use:
         ```javascript
